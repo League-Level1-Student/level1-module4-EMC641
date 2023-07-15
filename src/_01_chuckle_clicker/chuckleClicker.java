@@ -65,7 +65,7 @@ import javax.swing.JOptionPane;
 				if(buttonPressed==rightButton) {
 					setTextSize(100);
 					rightButton.setText("Hi");
-					JOptionPane.showMessageDialog( null, "Why did you press punchline smh");
+					JOptionPane.showMessageDialog( null, "Why did you press punchline?");
 				}
 				
 				
