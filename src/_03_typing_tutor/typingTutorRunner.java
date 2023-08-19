@@ -4,7 +4,7 @@ import _02_jeopardy.Jeopardy;
 
 public class typingTutorRunner {
 	public static void main(String[] args) {
-		//new typingTutor().run();
+		new typingTutor().setup();
 		
 	}
 }
