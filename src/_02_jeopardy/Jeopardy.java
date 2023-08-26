@@ -1,4 +1,4 @@
-jjjpackage _02_jeopardy;
+package _02_jeopardy;
 
 
 /*

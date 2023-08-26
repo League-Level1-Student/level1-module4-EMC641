@@ -68,7 +68,7 @@ public class typingTutor implements KeyListener {
 		//put the letter the person typed in the prentences System.out.println();
 		System.out.println(currentLetter);
 	}
-}
+
 
 	private char newcurrentLetter() {
 		// TODO Auto-generated method stub
